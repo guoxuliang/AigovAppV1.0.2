@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-hot-code-push-plugin": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-hot-code-push-local-dev-addon": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.aigov.xy.main"
+        }
+    }
+}
